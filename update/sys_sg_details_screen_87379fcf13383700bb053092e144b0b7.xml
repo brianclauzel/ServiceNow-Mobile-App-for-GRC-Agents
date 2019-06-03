@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Issues Unassigned ">80b613cf13383700bb053092e144b019</data_item>
+        <description>Issues not assigned to any user</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="clipboard">bb175bcf13383700bb053092e144b0f7</icon>
+        <item_view display_value="Issues (Unassigned) detail item view">6c275bcf13383700bb053092e144b0d0</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>18371fcf13383700bb053092e144b02e</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-18 20:56:34</sys_created_on>
+        <sys_id>87379fcf13383700bb053092e144b0b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_details_screen_87379fcf13383700bb053092e144b0b7</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-18 21:18:23</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=87379fcf13383700bb053092e144b0b7"/>
+</record_update>

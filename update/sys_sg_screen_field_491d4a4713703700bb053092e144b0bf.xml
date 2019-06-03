@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>start_date</data_item_field_name>
+        <hidden>false</hidden>
+        <order>20</order>
+        <screen display_value="Details">9dda4e8313703700bb053092e144b064</screen>
+        <screen_data_item_table>sn_grc_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-18 15:32:32</sys_created_on>
+        <sys_id>491d4a4713703700bb053092e144b0bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_date</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_screen_field_491d4a4713703700bb053092e144b0bf</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-18 15:32:32</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

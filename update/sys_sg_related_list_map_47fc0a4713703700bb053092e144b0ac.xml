@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Tasks">d0ca4a8313703700bb053092e144b06f</destination_screen>
+        <related_list_screen display_value="Related List">04da0e8313703700bb053092e144b08d</related_list_screen>
+        <relationship>planned_task.parent</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-18 15:32:08</sys_created_on>
+        <sys_id>47fc0a4713703700bb053092e144b0ac</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>d0ca4a8313703700bb053092e144b06f</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_47fc0a4713703700bb053092e144b0ac</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-18 18:20:15</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

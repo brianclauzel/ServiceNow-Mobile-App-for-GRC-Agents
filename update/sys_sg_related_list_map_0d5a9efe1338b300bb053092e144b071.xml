@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Risks">af7052fe13f4b300bb053092e144b0f7</destination_screen>
+        <related_list_screen display_value="Related List">3e8016fe13f4b300bb053092e144b073</related_list_screen>
+        <relationship>sn_risk_m2m_risk_control.sn_risk_risk</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-17 21:51:57</sys_created_on>
+        <sys_id>0d5a9efe1338b300bb053092e144b071</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>af7052fe13f4b300bb053092e144b0f7</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_0d5a9efe1338b300bb053092e144b071</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-18 18:27:20</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

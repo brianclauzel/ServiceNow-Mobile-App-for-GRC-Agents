@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New task record">1e1cd7d31370b700bb053092e144b090</button>
+        <item_parameter display_value="short_description">874c6f1b13b0b700bb053092e144b0b5</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-19 17:11:27</sys_created_on>
+        <sys_id>404da39b13b0b700bb053092e144b05b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>874c6f1b13b0b700bb053092e144b0b5</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_404da39b13b0b700bb053092e144b05b</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-19 17:11:27</sys_updated_on>
+        <ui_parameter display_value="Short Description">82eceb5b13b0b700bb053092e144b0c8</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

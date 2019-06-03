@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New Task</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-19 15:57:24</sys_created_on>
+        <sys_id>ab2c5fd31370b700bb053092e144b0ab</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>New Task</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_ab2c5fd31370b700bb053092e144b0ab</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-22 20:01:34</sys_updated_on>
+        <table>sn_grc_task</table>
+        <template>issue={{new_task}}^short_description={{short_description}}^assigned_to={{assign_to_me}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab2c5fd31370b700bb053092e144b0ab"/>
+</record_update>

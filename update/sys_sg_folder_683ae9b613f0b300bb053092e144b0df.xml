@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="Risk Management">643ae9b613f0b300bb053092e144b0de</application>
+        <name>Main</name>
+        <order>1</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2019-04-17 18:21:39</sys_created_on>
+        <sys_id>683ae9b613f0b300bb053092e144b0df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Main</sys_name>
+        <sys_package display_value="Schwab mobile" source="x_snc_schwab_mobil">b119ed3613f0b300bb053092e144b083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schwab mobile">b119ed3613f0b300bb053092e144b083</sys_scope>
+        <sys_update_name>sys_sg_folder_683ae9b613f0b300bb053092e144b0df</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2019-04-17 22:43:49</sys_updated_on>
+    </sys_sg_folder>
+</record_update>
